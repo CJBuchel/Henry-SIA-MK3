@@ -13,13 +13,20 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
+  system ("color 09");
 
 
 
-cout << "waz up";
-Sleep(10000);
-
-
+cout << "---------------Simple_Interactive_AI-------------version Alpha_0.0.1";
+cout << endl;
+cout << endl;
+cout << endl;
+cout << endl;
+cout << endl;
+cout << endl;
+cout << endl;
+cout << "IO Log" << endl;
+system ("pause");
 
 
 

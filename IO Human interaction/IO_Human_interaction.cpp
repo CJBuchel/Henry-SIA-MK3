@@ -21,7 +21,7 @@ int ERROR_in;
 int main(int argc, char const *argv[]) {
 
   cout << "Henry-SIA-MK3, Initialize?" << endl;
-  cout << "YES or NO, type 1 or 2:";
+  cout << "YES or NO, type 1 or 2: ";
   cin >> Initialize_in;
   cout << endl;
 
