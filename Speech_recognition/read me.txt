@@ -1,0 +1,3 @@
+http://www.dreamincode.net/forums/topic/208153-sound-recorder-using-the-low-level-windows-api-in-c/
+
+review this link find all libraries required for speech recognition
