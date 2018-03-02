@@ -47,7 +47,6 @@ cout << endl;
 cout << "Output Log:" << endl;
 cout << endl;
 
-system ("start C:\\Users\\Conno\\Desktop\\code\\Henry-SIA-MK3\\Henry-SIA-MK3\\Speach_recognition\\Speech.exe");
 
 
 system ("start C:\\Users\\Conno\\Desktop\\code\\Henry-SIA-MK3\\Henry-SIA-MK3\\Voice\\0001.m4a"); // This gets the value Windows uses to identify your output window
